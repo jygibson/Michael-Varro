@@ -1,0 +1,20 @@
+
+body {
+    background-image: url("./images/21743894_1668427029865861_6456313720564550594_o.jpg");
+    background-size: cover;
+}
+
+.name {
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Londrina Outline', cursive;
+    font-size: 80px;
+}
+
+.col-3{
+    background-color: lightgray;
+    margin: 10px;
+    height: 80px;
+}
